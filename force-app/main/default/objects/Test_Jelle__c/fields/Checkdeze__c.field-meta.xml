@@ -3,7 +3,7 @@
     <fullName>Checkdeze__c</fullName>
     <defaultValue>false</defaultValue>
     <externalId>false</externalId>
-    <label>Checkdeze</label>
+    <label>Dit is aangepast door Hugo</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>
 </CustomField>
